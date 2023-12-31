@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1897931033",
+    "project_id": "rrooms-ecea8",
+    "storage_bucket": "rrooms-ecea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1897931033:android:11a2bb8f968e5cbb9a2588",
+        "android_client_info": {
+          "package_name": "com.rooms.rrooms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcZKd1wFZZZrNCIbRr3U6BIz-yrW4jyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
